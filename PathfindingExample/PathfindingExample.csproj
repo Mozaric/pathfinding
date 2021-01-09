@@ -119,6 +119,10 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="icons8_waypoint_map.ico" />
+    <Content Include="Pictures\Pathfinding01.JPG" />
+    <Content Include="Pictures\Pathfinding02.JPG" />
+    <Content Include="Pictures\Pathfinding03.JPG" />
+    <Content Include="Pictures\Pathfinding04.JPG" />
     <None Include="Resources\icons8_waypoint_map_16px.png" />
     <None Include="Resources\icons8_minimize_window_16px.png" />
     <None Include="Resources\icons8_info_16px.png" />
