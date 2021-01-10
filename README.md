@@ -1,5 +1,7 @@
 # 路徑搜尋
 
+[Demo 影片請點此](https://drive.google.com/file/d/13VYFHiybsRWmLSmPJezsxlPZPC8kJAjE/view?usp=sharing)
+
 實作時下常見的路徑搜尋演算法， A Star 與 Jump Point Search ，並透過介面顯示運作過程，以讓自身更了解並比較兩者演算法的差異。
 
 ## 程式簡介
@@ -18,7 +20,7 @@
 
 ![](./PathfindingExample/Pictures/Pathfinding03.JPG)
 
-使用Jump Point Search演算法的結果如下圖。
+使用 Jump Point Search 演算法的結果如下圖。
 
 ![](./PathfindingExample/Pictures/Pathfinding04.JPG)
 
